@@ -6,5 +6,5 @@ A brief description of what this project does and who it's for
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+Puedes visualizar el proyecto [aquí](https://betsyrms.github.io/CDMX012-card-validation/)
 
